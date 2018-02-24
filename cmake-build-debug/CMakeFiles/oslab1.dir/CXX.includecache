@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ninalei/CLionProjects/oslab1/main.cpp
+iostream
+-
+fstream
+-
+map
+-
+vector
+-
+iomanip
+-
+set
+-
+tokenizer.h
+/Users/ninalei/CLionProjects/oslab1/tokenizer.h
+
+/Users/ninalei/CLionProjects/oslab1/tokenizer.cpp
+iostream
+-
+fstream
+-
+tokenizer.h
+/Users/ninalei/CLionProjects/oslab1/tokenizer.h
+
+/Users/ninalei/CLionProjects/oslab1/tokenizer.h
+iostream
+-
+string.h
+-
+
